@@ -23,5 +23,5 @@ Botla ilgili soru ve destek için:
 #### 💡 Önerilerim var
 Discord sunucumuzda **#öneriler** kanalını kullanın
 
-[⬆ Yukarı dön](#-discord-stalk)
+[⬆ Yukarı dön](#discord-stalk)
 
