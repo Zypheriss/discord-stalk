@@ -1,6 +1,6 @@
 # Botun Örnek görselleri
 
-![zypheris](./zyps/bot1.png) 
+![zypheris](./zyps/bot.png) 
 ![zypheris](./zyps/bot2.png) 
 ![zypheris](./zyps/bot3.png) 
 ![zypheris](./zyps/bot4.png) 
