@@ -1,3 +1,11 @@
+# Botun Örnek görselleri
+
+![zypheris](./zyps/bot1.png) 
+![zypheris](./zyps/bot2.png) 
+![zypheris](./zyps/bot3.png) 
+![zypheris](./zyps/bot4.png) 
+
+
 ## 📞 İletişim & Destek
 [![Discord](https://img.shields.io/badge/ZYPHERİS-DİSCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/773582512647569409)
 ### 🌍 **Bize Ulaşın**
